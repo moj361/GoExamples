@@ -1,8 +1,5 @@
 # Clean Code Principles 
 
-- KISS : Keep It Simple Stupid.
-  - "can this be written in a simpler way?"
-
 ### 1.Magic Numbers
 
 
