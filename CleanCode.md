@@ -234,9 +234,9 @@ for(let i = 0;i < 10; i++){
 
 
 #### References:
-https://www.markdownguide.org/basic-syntax
-https://www.markdownguide.org/extended-syntax/
-https://x-team.com/blog/principles-clean-code/
-https://betterprogramming.pub/12-conventions-for-writing-clean-code-e16c51e3939a
-https://gist.github.com/wojteklu/73c6914cc446146b8b533c0988cf8d29
+- https://www.markdownguide.org/basic-syntax
+- https://www.markdownguide.org/extended-syntax/
+- https://x-team.com/blog/principles-clean-code/
+- https://betterprogramming.pub/12-conventions-for-writing-clean-code-e16c51e3939a
+- https://gist.github.com/wojteklu/73c6914cc446146b8b533c0988cf8d29
 
